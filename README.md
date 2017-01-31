@@ -1,6 +1,9 @@
 #nmax
 
+[![Build Status](https://travis-ci.org/epsylonix/nmax.svg?branch=master)](https://travis-ci.org/epsylonix/nmax)
+
 Home: https://github.com/epsylonix/nmax
+
 Bugs: https://github.com/epsylonix/nmax/issues
 
 #Description
